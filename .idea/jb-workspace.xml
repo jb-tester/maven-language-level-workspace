@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="WorkspaceSettings">
-    <project name="maven-language-level-maven-compiler-target" path="$PROJECT_DIR$/../maven-language-level-maven-compiler-target" />
-    <project name="maven-language-level-maven-compiler-release" path="$PROJECT_DIR$/../maven-language-level-maven-compiler-release" />
-    <project name="maven-language-level-plugin" path="$PROJECT_DIR$/../maven-language-level-plugin" />
-    <project name="maven-language-level-spring" path="$PROJECT_DIR$/../maven-language-level-spring" />
+    <project name="maven-language-level-maven-compiler-target" path="$PROJECT_DIR$/../maven-language-level-maven-compiler-target">
+      <vcs id="Git" remoteUrl="https://github.com/jb-tester/maven-language-level-maven-compiler-target.git" />
+    </project>
+    <project name="maven-language-level-maven-compiler-release" path="$PROJECT_DIR$/../maven-language-level-maven-compiler-release">
+      <vcs id="Git" remoteUrl="https://github.com/jb-tester/maven-language-level-maven-compiler-release.git" />
+    </project>
+    <project name="maven-language-level-plugin" path="$PROJECT_DIR$/../maven-language-level-plugin">
+      <vcs id="Git" remoteUrl="https://github.com/jb-tester/maven-language-level-plugin.git" />
+    </project>
+    <project name="maven-language-level-spring" path="$PROJECT_DIR$/../maven-language-level-spring">
+      <vcs id="Git" remoteUrl="https://github.com/jb-tester/maven-language-level-spring.git" />
+    </project>
     <option name="workspace" value="true" />
   </component>
 </project>
